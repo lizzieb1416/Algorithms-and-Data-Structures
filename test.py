@@ -1,5 +1,15 @@
-list1 = [1, 2, 3, 4]
 
-list1.insert(0, 'x')
 
-print(list1)
+
+
+
+
+A = [[1, 3, 10], [4, 2], [5]]
+
+
+
+
+for i in A: 
+    for j in i: 
+        
+
